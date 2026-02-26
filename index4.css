@@ -6,7 +6,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* FAIXA SUPERIOR */
+
 .topo {
     background: #ed5478;
     color: rgb(243, 141, 141);
@@ -31,7 +31,7 @@ body {
     width: 60px;
 }
 
-/* MENU */
+
 .menu a {
     text-decoration: none;
     color: white;
@@ -39,7 +39,7 @@ body {
     font-weight: 400;
 }
 
-/* CONTEÚDO */
+
 .conteudo {
     padding: 60px;
 }
